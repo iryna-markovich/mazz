@@ -1,4 +1,12 @@
 {
   "name": "@iryna-markovich/mazz",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Design system",
+  "license": "MIT",
+  "repository": "iryna-markovich/mazz",
+  "main": "index.js",
+  "keywords": [
+    "design",
+    "npm"
+  ]
 }
